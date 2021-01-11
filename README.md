@@ -48,8 +48,8 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alguns padrões surgiram para solucionar limitações de linguagens de programação com menos recursos no que diz respeito à abstração, nestes casos os padrões era como "gambiarras" que proporcionavam à linguagem a possibilidade de fazer implementações que não eram possíveis nativamente.<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linguagens mais recentes trazem alguns destes recursos nativamente, em alguns outros casos os padrões foram substituídos por padrões mais recentes.
-  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linguagens mais recentes trazem alguns destes recursos nativamente, em alguns outros casos os padrões foram substituídos por padrões mais recentes.<br />
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O padrão Strategy, por exemplo, pode ser substituído pelo o uso de uma função anônima.
 </p>
 
