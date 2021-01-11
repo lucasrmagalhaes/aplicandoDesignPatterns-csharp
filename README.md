@@ -107,3 +107,21 @@
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fructuoso/DesignPatternSamples">DesignPatternSamples</a>
 </p>
+
+<hr />
+
+<h5 align="left">Estudos Complementares</h5>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/">Cloud Design Patterns:</a> Apresenta os principais desafios do desenvolvimento na nuvem e padrões difundidos no mercado para supera-los.
+</p>
+
+<hr />
+
+<h5 align="left">Referências:</h5>
+
+<ul>
+  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.oodesign.com/">OODesign</a></li><br />
+  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dofactory.com/net/design-patterns/">dofactory</a></li><br />
+  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://refactoring.guru/design-patterns">REFACTORING GURU</a></li>
+</ul>
