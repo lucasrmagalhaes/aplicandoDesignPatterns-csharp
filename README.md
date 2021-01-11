@@ -71,3 +71,33 @@
 </p>
 
 <hr />
+
+<h5 align="left">S.O.L.I.D.</h5>
+
+<p align="left">
+  <img src="https://github.com/lucasrmagalhaes/aplicandoDesignPatternsNaPraticaComDotNet-DIO/blob/main/OsPrincipiosDoS.O.L.I.D.jpg" alt="Os Princípios do S.O.L.I.D.">
+</p>
+
+<h5 align="left">Problemas comuns em aplicações que NÃO usam o S.O.L.I.D.</h5>
+
+<ul>
+  <li>Duplicidade de Código;</li>
+  <li>Código sem estrutura coesa;</li>
+  <li>Dificuldade de manter/evoluir;</li>
+  <li>Pequenos ajustes podem quebrar o código, inclusive em outras partes do sistema;</li>
+  <li>Dificuldade para executar e criar testes unitários; e</li>
+  <li>Dificuldade de reaproveitar código para outras aplicações.</li>
+</ul>
+
+<h5 align="left">Principais benefícios</h5>
+
+<ul>
+  <li>Fácil manutenção;</li>
+  <li>Fácil entendimento;</li>
+  <li>Organização;</li>
+  <li>Aberta a receber novas funcionalidades sem danos colaterais;</li>
+  <li>Reaproveitamento de código; e</li>
+  <li>Fácil adaptação a mudanças no escopo do projeto.</li>
+</ul>
+
+<hr />
