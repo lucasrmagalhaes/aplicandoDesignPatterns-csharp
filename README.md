@@ -101,3 +101,9 @@
 </ul>
 
 <hr />
+
+<h5 align="left">Exemplos Práticos (WebAPI REST .NET Core)</h5>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fructuoso/DesignPatternSamples">DesignPatternSamples</a>
+</p>
