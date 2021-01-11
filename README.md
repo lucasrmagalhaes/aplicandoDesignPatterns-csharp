@@ -23,7 +23,7 @@
 <h5 align="left">Gang Of Four</h5>
 
 <p align="left">
-  <img src="https://github.com/lucasrmagalhaes/aplicandoDesignPatternsNaPraticaComDotNet-DIO/blob/main/GoF.jpg" alt="Gang Of Four">
+  <img src="https://github.com/lucasrmagalhaes/aplicandoDesignPatternsNaPraticaComDotNet-DIO/blob/main/img/GoF.jpg" alt="Gang Of Four">
 </p>
 
 <hr />
@@ -75,7 +75,7 @@
 <h5 align="left">S.O.L.I.D.</h5>
 
 <p align="left">
-  <img src="https://github.com/lucasrmagalhaes/aplicandoDesignPatternsNaPraticaComDotNet-DIO/blob/main/OsPrincipiosDoS.O.L.I.D.jpg" alt="Os Princípios do S.O.L.I.D.">
+  <img src="https://github.com/lucasrmagalhaes/aplicandoDesignPatternsNaPraticaComDotNet-DIO/blob/main/img/OsPrincipiosDoS.O.L.I.D.jpg" alt="Os Princípios do S.O.L.I.D.">
 </p>
 
 <h5 align="left">Problemas comuns em aplicações que NÃO usam o S.O.L.I.D.</h5>
