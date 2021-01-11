@@ -121,7 +121,7 @@
 <h5 align="left">Referências:</h5>
 
 <ul>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="https://www.oodesign.com/">OODesign</a></li>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="https://www.dofactory.com/net/design-patterns/">dofactory</a></li>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="https://refactoring.guru/design-patterns">Refactoring Guru</a></li>
+  <li><a href="https://www.oodesign.com/">OODesign</a></li>
+  <li><a href="https://www.dofactory.com/net/design-patterns/">dofactory</a></li>
+  <li><a href="https://refactoring.guru/design-patterns">Refactoring Guru</a></li>
 </ul>
