@@ -1,4 +1,4 @@
-<h1 align="center">Aplicando Design Patterns na Pŕática com C#</h1>
+<h1 align="center">Aplicando Design Patterns na Prática com C#</h1>
 
 <h5 align="left">Definição</h5>
 
