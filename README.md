@@ -125,3 +125,28 @@
   <li><a href="https://www.dofactory.com/net/design-patterns/">dofactory</a></li>
   <li><a href="https://refactoring.guru/design-patterns">Refactoring Guru</a></li>
 </ul>
+
+<hr />
+
+<details>
+  <summary><strong>Certifique seu conhecimento:</strong></summary>
+  <br />
+  <strong>Qual a vantagem de se utilizar Design patterns ?</strong><br />
+  Criar soluções padrões universais de fácil entendimento para todo o time.
+  <br /><br />
+  <strong>O que são design patterns?</strong><br />
+  São soluções típicas para problemas comuns em projeto de software.
+  <br /><br />
+  <strong>Strategy pattern é um design pattern do tipo:</strong><br />
+  Comportamental.
+  <br /><br />
+  <strong>O que significa o principio S do S.O.L.I.D. ?</strong><br />
+  Single responsability (Principio da Responsabilidade Única).
+  <br /><br />
+  <strong>Qual dos itens abaixo NÁO é um design pattern?</strong><br />
+  Reserve.
+  <br /><br />
+  <strong>O que são os princípios do S.O.L.I.D.?</strong><br />
+  SOLID é um conjunto de princípios e boas práticas para melhorar o design de software e arquitetura.
+  <br /><br />
+</details>
