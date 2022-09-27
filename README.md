@@ -12,14 +12,6 @@
 
 <hr />
 
-<h5 align="left">Enquete</h5>
-
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="www.menti.com/iq57cex4f5">Quais padrões de projeto você conhece?</a>
-</p>
-
-<hr />
-
 <h5 align="left">Gang Of Four</h5>
 
 <p align="left">
